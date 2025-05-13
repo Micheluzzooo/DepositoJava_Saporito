@@ -5,6 +5,7 @@ public class Main {
         String provaTesto = "Ciao Mondo";
         boolean provaBool = true;
         final int provaNumero2 = 15;
+        double myDouble = 19.99d;
 
         //concat stringhe
         String firstPart = "Ciao ";
@@ -26,6 +27,10 @@ public class Main {
         int a, b, c;
         a = b = c = 50;
         System.out.println(a + b + c);
+
+        //booleani true false
+        boolean isJava = true; // 1
+        boolean isFerrari = false; // 0
 
     }
 }
